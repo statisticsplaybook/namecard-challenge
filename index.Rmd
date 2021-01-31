@@ -1,0 +1,15 @@
+---
+title: "슬기로운 통계생활"
+image: "statplaybooklogo.png"
+links:
+  - label: YouTube
+    url: "https://www.youtube.com/c/statisticsplaybook"
+  - label: GitHub
+    url: "https://github.com/statisticsplaybook"
+  - label: Email
+    url: "mailto:statisticsplaybook@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+안녕하세요, 슬기로운 통계생활 유튜브 온라인 명함 만들기 예제입니다!
